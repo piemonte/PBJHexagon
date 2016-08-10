@@ -7,6 +7,8 @@ Please review the [release history](https://github.com/piemonte/PBJHexagon/relea
 
 The [github issues page](https://github.com/piemonte/PBJHexagon/issues) is a great place to start a discussion but also allows others to benefit and chime in on the project too.
 
+[![Pod Version](https://img.shields.io/cocoapods/v/PBJHexagon.svg?style=flat)](http://cocoadocs.org/docsets/pbjhexagon/)
+
 ## Installation
 
 [CocoaPods](http://cocoapods.org) is the recommended method of installing, just add the following line to your `Podfile`:
