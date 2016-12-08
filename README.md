@@ -1,7 +1,7 @@
 ![PBJHexagon](https://raw.github.com/piemonte/PBJHexagon/master/PBJHexagon.gif)
 
 ## Hexagon
-`PBJHexagon` is a simple hexagon grid flow layout for UICollectionViews. It was originally created for the [DIY app](https://diy.org/app) to display skill hexagons, a video can be found [here](https://vimeo.com/112680652).
+`PBJHexagon` is a simple hexagon grid flow layout for UICollectionViews. It was originally created for the [DIY app](https://diy.org/app) to display skill hexagons, a video can be found [here](https://vimeo.com/112680652/48aaf51de9).
 
 Please review the [release history](https://github.com/piemonte/PBJHexagon/releases) for more information.
 
